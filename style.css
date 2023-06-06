@@ -1,8 +1,17 @@
 body, h1,h2,h3,h4,h5,h6 {
     font-family: "Montserrat", sans-serif;
 }
-.w3-row-padding img {margin-bottom: 12px;}
-.w3-sidebar {width: 120px;background: #222;}
+.w3-row-padding img {
+    margin-bottom: 12px;
+}
+.w3-sidebar {
+    width: 120px;
+    background: #222;
+}
+.edit{
+    opacity: 0.5;
+    border-radius: 99px;
+}
 #main {margin-left: 120px;}
 .imgs{
     width:100%;
